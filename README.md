@@ -33,6 +33,9 @@ Developed using the Unity game engine, along with Google Cardboard, and built fo
 Make sure you have the following installed on your machine:
 - [Unity](https://unity.com/) (Version: 2021.3.31f1)
 - Android 13 (API Level 32)
+
+External hardware:
+- Any VR box HMD for mobile VR
 - Simple bluetooth controller
 
 
