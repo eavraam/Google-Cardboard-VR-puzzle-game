@@ -68,4 +68,4 @@ Highlighted Obstacle 1   |  Highlighted Obstacle 3
 
 Demo Gameplay|
 :-------------------------:|
-<img src="repo_images/VR_demo.gif" width="600" height="400">|
+<img src="repo_images/VR_demo.gif" width="800" height="400">|
